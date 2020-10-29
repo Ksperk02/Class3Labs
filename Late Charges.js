@@ -21,3 +21,11 @@ function createBookFees() {
     alert("You owe " + dvdDue + "$ for your DVDs.");
 
 }
+
+function init() {
+
+    $("#button").click(createBookFees);
+
+}
+
+$(init);

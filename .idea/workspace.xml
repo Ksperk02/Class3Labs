@@ -19,9 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ecf5a8f-3420-4455-ae20-60a4dc9124db" name="Default Changelist" comment="">
+    <list default="true" id="2ecf5a8f-3420-4455-ae20-60a4dc9124db" name="Default Changelist" comment="Changed html filename.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Late.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Late Charges.js" beforeDir="false" afterPath="$PROJECT_DIR$/Late Charges.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +50,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -60,8 +62,18 @@
       <option name="presentableId" value="Default" />
       <updated>1603823334643</updated>
       <workItem from="1603823335670" duration="1514000" />
-      <workItem from="1603825483600" duration="62000" />
+      <workItem from="1603825483600" duration="419000" />
+      <workItem from="1603825906793" duration="151000" />
+      <workItem from="1603993314996" duration="464000" />
     </task>
+    <task id="LOCAL-00001" summary="Changed html filename.">
+      <created>1603825690288</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603825690288</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,15 +89,28 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Changed html filename." />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed html filename." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="570" y="351" key="Github.ShareDialog" timestamp="1603824427606">
+    <state x="570" y="351" key="Github.ShareDialog" timestamp="1603825931367">
       <screen x="0" y="23" width="1440" height="810" />
     </state>
-    <state x="570" y="351" key="Github.ShareDialog/0.23.1440.810@0.23.1440.810" timestamp="1603824427606" />
+    <state x="570" y="351" key="Github.ShareDialog/0.23.1440.810@0.23.1440.810" timestamp="1603825931367" />
     <state x="485" y="159" key="Github.UntrackedFilesDialog" timestamp="1603824434161">
       <screen x="0" y="23" width="1440" height="810" />
     </state>
     <state x="485" y="159" key="Github.UntrackedFilesDialog/0.23.1440.810@0.23.1440.810" timestamp="1603824434161" />
+    <state x="306" y="187" key="Vcs.Push.Dialog.v2" timestamp="1603825619413">
+      <screen x="0" y="23" width="1440" height="810" />
+    </state>
+    <state x="306" y="187" key="Vcs.Push.Dialog.v2/0.23.1440.810@0.23.1440.810" timestamp="1603825619413" />
+    <state x="504" y="368" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603825637690">
+      <screen x="0" y="23" width="1440" height="810" />
+    </state>
+    <state x="504" y="368" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.810@0.23.1440.810" timestamp="1603825637690" />
   </component>
 </project>
